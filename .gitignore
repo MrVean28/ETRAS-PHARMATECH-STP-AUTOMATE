@@ -1,0 +1,16 @@
+# PlatformIO / VSCode
+.pio/
+.vscode/
+.clangd/
+*.code-workspace
+
+# build artifacts
+build/
+cmake-build*/
+*.elf
+*.bin
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
